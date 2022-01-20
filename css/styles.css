@@ -98,3 +98,17 @@ padding: 1.5rem 0;
     grid-column: 3 / 4;
     grid-row: 3 / 4;
 }
+form {
+    /* Centrar el formulario en la página */
+    margin: 0 auto;
+    width: 400px;
+    /* Esquema del formulario */
+    padding: 1em;
+  }
+  input{
+    display: table-column; 
+    width:100%;
+  }
+  label{
+    white-space: nowrap;
+}

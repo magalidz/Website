@@ -1,0 +1,1 @@
+alert("Este alert es un error");
